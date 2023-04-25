@@ -46,5 +46,16 @@ Employee ID #1, Employee ID #2, Project ID, Days worked
 - OpenCSV 5.7.1
 - JavaFX 17.0.2
 
+### Quickstart
+* Clone the project
+* Run "PairOfEmployeesApplication"
+* Select desired date format
+* Select the CSV file with the data
+- Sample data can be found in the "resources" directory
+
+### Insights
+<img src="https://github.com/ivan-parnarev/Ivan-Parnarev-employees/blob/main/Employees/src/main/resources/img/success.png" width="400"/> <img src="https://github.com/ivan-parnarev/Ivan-Parnarev-employees/blob/main/Employees/src/main/resources/img/error.png" width="400"/>
+
+
 ## Author
-- [LinkedIn](https://www.linkedin.com/in/ivan-parnarev/)
+[![Ivan Parnarev Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-parnarev/)
